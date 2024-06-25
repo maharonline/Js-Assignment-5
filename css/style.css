@@ -1,0 +1,28 @@
+.navbar{
+    background-color: #34495e !important;
+}
+.navbar a{
+    color: #ffff !important;
+    padding-left: 30px !important;
+}
+#orignal{
+    background-color: #34495e ;
+    color: #ffff !important;
+    margin-left: 20px !important;
+}
+#btn button{
+    margin-top: 5px;
+    min-width: 45%;
+    background-color: #34495e !important;
+    border: #34495e !important;
+}
+#output{
+    margin-left: 20px !important;
+}
+footer{
+    background-color: #34495e;
+    color: #ffff;
+    margin-top: 60px ;
+    height: 30px;
+    text-align: center;
+}
